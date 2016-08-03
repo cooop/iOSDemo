@@ -9,9 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>AutoLayoutScrollView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>2D2C1D201D50385F00197C92</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D2C1D381D50385F00197C92</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D2C1D431D50385F00197C92</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>2DF2F98A1D40B18D00A4BF40</key>
 		<dict>
 			<key>primary</key>

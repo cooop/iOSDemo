@@ -4,3 +4,7 @@ use_frameworks!
 target 'AutoLayoutDemo' do
   pod 'Masonry'
 end
+
+target 'AutoLayoutScrollView’ do
+  pod 'Masonry'
+end

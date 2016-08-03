@@ -1,0 +1,6 @@
+framework module Pods_AutoLayoutScrollView {
+  umbrella header "Pods-AutoLayoutScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}
